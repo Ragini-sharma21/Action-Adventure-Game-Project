@@ -5,4 +5,4 @@ This is a  dragon adventure game which  has</br>
 3. effects etc.</br>
 
 It is made using pure HTML , CSS , JAVASCRIPT. 
-This Game also has a feature of viewing score and challenging friends.
+This Game also has a feature of viewing score and challenging friends
